@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/root/CLEM_Files/readClemFile_Page_NVM_64K /root/PROGRAM/CLemFile/"$@" 32
